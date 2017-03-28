@@ -10,3 +10,13 @@ git commit
 git status
 git log
 
+wd working dictionary sa staging area commit1 latest commit
+git	diff wd sa
+git diff --staged sa commit1
+git diff commit1 commit2 
+
+git branch
+git checkout -b ...
+git branch ...
+git checkout
+
