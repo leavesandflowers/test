@@ -6,5 +6,7 @@ git checkout
 
 L2
 git add
-git status
 git commit
+git status
+git log
+
